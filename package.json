@@ -1,0 +1,22 @@
+{
+  "name": "tesseract-ocr",
+  "version": "1.0.0",
+  "description": "Extract text from image in browser using javascript library tesseract.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bensonruan/Tesseract-OCR.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bensonruan/Tesseract-OCR/issues"
+  },
+  "homepage": "https://github.com/bensonruan/Tesseract-OCR#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
